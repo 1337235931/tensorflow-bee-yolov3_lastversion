@@ -1,6 +1,8 @@
 识别检测蜜蜂
-$ python image_demo.py             # 图片识别
-$ python video_demo.py             # 视频识别   video_path = 0 代表使用摄像头
+
+    $ python image_demo.py             # 图片识别
+    $ python video_demo.py             # 视频识别   video_path = 0 代表使用摄像头
+    
 详细训练过程
 
 1.先准备好数据集，VOC2007格式默认，再通过使用算法产生anchors（也可以采用默认的anchors）
