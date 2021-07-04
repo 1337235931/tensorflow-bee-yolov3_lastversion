@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bees</folder>
+	<filename>000024.jpg</filename>
+	<path>F:/Pythonproject/bee_demo_2/VOC2007/JPEGImages/0000024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>242</ymin>
+			<xmax>668</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

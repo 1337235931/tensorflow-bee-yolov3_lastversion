@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.9" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.views" />
+          <option value="JobEvaluating.JobEvaluating.views" />
+          <option value="JobEvaluating.JobEvaluating.urls.APP" />
+          <option value="JobEvaluating.JobEvaluating.urls.App" />
+          <option value="JobEvaluating.App.views.handlesql" />
+          <option value="JobEvaluating.App.handlesql.long" />
+          <option value="JobEvaluating.JobCrawl.crawlall.scrapy" />
+          <option value="scrapy" />
+          <option value="jieba" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.pipelines.twisted" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.pipelines.items" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.pipelines.spiders" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.spiders.baicai.scrapy_redis" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.spiders.baicai.datacleaning" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.spiders.chinahr.scrapy_redis" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.spiders.chinahr.datacleaning" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.scrapy_redis.dupefilter.BloomfilterOnRedis" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.scrapy_redis.isExists.BloomfilterOnRedis" />
+          <option value="JobEvaluating.JobCrawl.JobCrawl.contrib.google_cache.urlparse" />
+          <option value="JobEvaluating.JobEvaluating.urls.render" />
+          <option value="JobEvaluating.JobEvaluating.urls.include" />
+          <option value="JobEvaluating.JobEvaluating.urls.path" />
+          <option value="JobEvaluating.JobEvaluating.urls.JobEvaluating" />
+          <option value="django.conf.urls.path" />
+          <option value="django.conf.path" />
+          <option value="model_train.history" />
+          <option value="dataloader.dataloaders" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bees</folder>
+	<filename>000004.jpg</filename>
+	<path>./VOC2007/JPEGImages/000004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>959</xmin>
+			<ymin>396</ymin>
+			<xmax>1018</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>
