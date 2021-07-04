@@ -1,4 +1,7 @@
 识别检测蜜蜂
+百度网盘下载权重
+链接：https://pan.baidu.com/s/1j1SkT4cFLhIOHh27y7FPBQ 
+提取码：g78r
 
     $ python image_demo.py             # 图片识别
     $ python video_demo.py             # 视频识别   video_path = 0 代表使用摄像头
